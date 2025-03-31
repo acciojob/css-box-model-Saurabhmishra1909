@@ -1,9 +1,14 @@
-
-        .box-model-demo {
-            width: 300px;
-            background-color: lightblue;
-            border: 15px solid blue;
-            padding: 50px;
-            margin: 20px;
-        }
+.box-model-demo {
+    margin: 20px;
+}
+.t{
+    border: 15px solid blue;
+}
+.o{
+	padding: 50px;
+    background-color: lightblue;
+}
+.p{
+	width: 300px;
+}
     
